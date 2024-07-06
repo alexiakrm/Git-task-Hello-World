@@ -4,3 +4,6 @@ print(name)
 
 # Issue 2 - set default occupation for user 
 occupation = "Software Engineer"
+
+# Issue 3 - Cappitalise user's name 
+name_caps = name.upper()
