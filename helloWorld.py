@@ -1,6 +1,4 @@
 # Issue 1 - Input user info and print info
 name = input("Please enter your name:")
-print(name)
-
-# Issue 3 - Cappitalise user's name 
 name_caps = name.upper()
+print(name_caps)
